@@ -1,1 +1,1 @@
-# GitHub2
+# learning-git-hub-day-2
